@@ -1,0 +1,27 @@
+body {
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #f5f5f5;
+}
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    color: #ffffff;
+}
+p {
+    text-align: center;
+    color: #cccccc;
+    margin-bottom: 20px;
+}
+iframe {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    height: 600px;
+    border: 2px solid #333;
+    border-radius: 12px;
+    box-shadow: 0px 4px 12px rgba(255, 255, 255, 0.1);
+    background-color: #1e1e1e;
+}
